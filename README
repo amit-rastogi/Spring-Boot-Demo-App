@@ -1,0 +1,8 @@
+Spring Boot application created using Spring Initializer
+
+Project configuration details-
+
+Java - v17
+Spring boot - v3.2.5
+Project type - Maven
+Dependencies - Spring Web, Spring boot dev tools
